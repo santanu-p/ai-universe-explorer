@@ -57,7 +57,7 @@ const App: React.FC = () => {
       </main>
 
       <footer className="text-center py-8 text-slate-500">
-        <p>Built by a Senior React Engineer | Simulated interactions powered by Google Gemini</p>
+        <p>Built by a Senior React Engineer | Simulated interactions | Copyright & copy; 2024 by your love Santanu</p>
       </footer>
       
       {activeAI && (
