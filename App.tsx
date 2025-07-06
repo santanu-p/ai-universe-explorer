@@ -57,7 +57,7 @@ const App: React.FC = () => {
       </main>
 
       <footer className="text-center py-8 text-slate-500">
-        <p>Built with ❤️ by Santanu, Senior React Engineer | Simulated interactions powered by Google Gemini | © 2025 Santanu Pradhan. All rights reserved.</p>
+        <p>Built with ❤️ by <strong>Santanu</strong>, Senior React Engineer | Simulated interactions powered by <strong>Google Gemini</strong> | &copy; {new Date().getFullYear()} Santanu Pradhan. All rights reserved.</p>
       </footer>
       
       {activeAI && (
